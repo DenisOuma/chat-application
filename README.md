@@ -10,4 +10,4 @@ suzankamau - 123123
 
 ## Here is the website Link
 
-In the project directory, you can run:
+https://noddy-chat-app.netlify.app/
