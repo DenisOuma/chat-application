@@ -5,7 +5,7 @@ React JS is the programming language of choice, and Chat Engine is a set of APIs
 
 ### `UserName and Password To Login For Testing`
 ## userName :  Password
-denisouma - 123123
+denisouma - 123123   
 suzankamau - 123123
 
 ## Here is the website Link
